@@ -67,7 +67,7 @@ https://forums.freebsd.org/threads/how-to-setup-a-git-repository.10810/
 ###Generating SSH keys
 https://help.github.com/articles/generating-ssh-keys/
 ### Showing SHA256 hash/fingerprint for known_hosts file
-ssh-keygen -l -E md5 -f ~/.ssh/known_hosts
+ssh-keygen -l -f ~/.ssh/known_hosts
 ### Showing old MD5 hash/fingerprint for known_hosts file
 ssh-keygen -l -E md5 -f ~/.ssh/known_hosts
 ## Fish
