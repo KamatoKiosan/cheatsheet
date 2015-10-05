@@ -43,6 +43,7 @@
   * Focus the parent container: mod+a
   * Focus the child container: mod+d
   * Move focused container to workspace #: mod+shift+h
+
 ## Markdown
 https://guides.github.com/features/mastering-markdown/
 ## Git
