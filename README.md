@@ -47,8 +47,8 @@
 ## Markdown
 https://guides.github.com/features/mastering-markdown/
 ## Git
-git clone ssh://<server><absolute path>
 ### Cloning a repository via SSH
+`git clone ssh://<server><absolute path>`
 ### Setup Git bare repository with FreeBSD
 https://forums.freebsd.org/threads/how-to-setup-a-git-repository.10810/
 ## SSH
