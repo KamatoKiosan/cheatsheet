@@ -44,6 +44,18 @@
   * Focus the child container: mod+d
   * Move focused container to workspace #: mod+shift+h
 
+## Vimperator / Firefox
+* Open new webpage: :open https://webpage.com
+* Open a new webpage in tab: :tabopen https://webpage.com
+* Open next page by incrementing URL number: ctrl+a
+* Open next page by decrementing URL number: ctrl+x
+* Go up to parent directory: gu
+* Go back in history: :back
+* Go forward in history: :forward
+* Open a link in current window: f then enter number
+* Open a link in new tab: F then enter number
+* Enter pass-through mode: ctrl+z
+
 ## Markdown
 https://guides.github.com/features/mastering-markdown/
 ## Git
@@ -58,3 +70,11 @@ https://help.github.com/articles/generating-ssh-keys/
 ssh-keygen -l -E md5 -f ~/.ssh/known_hosts
 ### Showing old MD5 hash/fingerprint for known_hosts file
 ssh-keygen -l -E md5 -f ~/.ssh/known_hosts
+## Fish
+* bash/fish translation table: https://en.wikipedia.org/wiki/Friendly_interactive_shell#bash.2Ffish_Translation_table
+* oh-my-fish Git repository: https://bpinto.github.io/oh-my-fish/
+* oh-my-fish command: omf
+## XTerm
+* Activate changes in .Xresources: xrdb ~/.Xresources
+## Fonts
+* Show available fonts: `fc-list | cut -f2 -d: | sort -u`
