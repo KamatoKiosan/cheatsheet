@@ -55,6 +55,8 @@
 * Open a link in current window: f then enter number
 * Open a link in new tab: F then enter number
 * Enter pass-through mode: ctrl+z
+* Go to the next tab: gt
+* Go to the previous tab: gT
 
 ## Markdown
 https://guides.github.com/features/mastering-markdown/
