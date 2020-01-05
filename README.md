@@ -3,6 +3,7 @@
 * Switch to first session: ctrl+alt+f7
 * Switch to second session: ctrl+alt+f8
 
+
 ## i3
 * Reference card: http://i3wm.org/docs/refcard.html
 * Basics
@@ -44,6 +45,7 @@
   * Focus the child container: mod+d
   * Move focused container to workspace #: mod+shift+h
 
+
 ## Vimperator / Firefox
 * Open new webpage: :open https://webpage.com
 * Open a new webpage in tab: :tabopen https://webpage.com
@@ -57,6 +59,7 @@
 * Enter pass-through mode: ctrl+z
 * Go to the next tab: gt
 * Go to the previous tab: gT
+
 
 ## Markdown
 https://guides.github.com/features/mastering-markdown/
@@ -80,3 +83,4 @@ ssh-keygen -l -E md5 -f ~/.ssh/known_hosts
 * Activate changes in .Xresources: xrdb ~/.Xresources
 ## Fonts
 * Show available fonts: `fc-list | cut -f2 -d: | sort -u`
+* Favorite programming font with programming ligatures:  https://github.com/tonsky/FiraCode
